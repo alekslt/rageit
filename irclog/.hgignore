@@ -1,0 +1,10 @@
+syntax:glob
+docs/_build/
+build
+dist
+*.egg/
+irclog.egg-info/
+.DS_Store
+.*.swp
+.*.swo
+*.pyc
